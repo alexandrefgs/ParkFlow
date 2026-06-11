@@ -1,0 +1,6 @@
+@ParkFlow.PlateAPI_HostAddress = http://localhost:5027
+
+GET {{ParkFlow.PlateAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
